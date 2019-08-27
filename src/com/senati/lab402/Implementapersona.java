@@ -6,7 +6,7 @@ public class Implementapersona {
 		// TODO Auto-generated method stub
 		/*Crea un objeto policia con la clase persona */ 
 		Persona policia = new Persona();
-		policia.id =1;
+		policia.id =100;
 		policia.nombre = "Roberto";
 		policia.apellido = "Gonzales";
 		policia.sexo = true;
